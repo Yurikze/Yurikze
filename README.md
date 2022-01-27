@@ -1,4 +1,4 @@
-### Hey mate, 👋
+### Hi there, 👋
 
 I'm Yura, self-taught front-end developer. Currently I build projects in Yandex.Practicum. Also I learn TS and Redux and apply new skills in pet projects.
 
